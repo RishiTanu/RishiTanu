@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishikesh
 - 👀 I’m currently working on **Android, FLutter** and **KMP(Kotlin Multiplatform)**.
 - 💞️ I’m looking to collaborate on **Android** and **Flutter** for Open Source.
-- Talk about **Android**, **Flutter**, **Backend**, **Firebase**.
+- Talk about **Android**, **Flutter** and **KMP**, **Backend**, **Firebase**.
 - 📫 How to reach me singhrishikesh500@gmail.com
 
 <!---
